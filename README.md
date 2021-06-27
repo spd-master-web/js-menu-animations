@@ -1,6 +1,9 @@
 # js-menu-animations
 
 Replicate, as much similarly as you can, the animation for the menu contained in this repository.
+
+The structure of the HTML and the style in the CSS should already be done, you need to arrange the JS file to use the animations from GSAP.
+
 You have two options of animation you can choose between, or both of them if you like!
 
 ## Animation 1
