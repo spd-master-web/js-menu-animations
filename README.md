@@ -13,3 +13,12 @@ https://user-images.githubusercontent.com/15322918/123551168-f1532880-d770-11eb-
 ## Animation 2
 
 https://user-images.githubusercontent.com/15322918/123551303-7cccb980-d771-11eb-8602-da9f0b432d16.mp4
+
+## Animation 1 slower version
+
+![one](https://user-images.githubusercontent.com/15322918/123666632-af41e980-d839-11eb-97ec-c287853cb766.gif)
+
+## Animation 2 slower version
+
+![two](https://user-images.githubusercontent.com/15322918/123666851-e0bab500-d839-11eb-9aba-664414d30aee.gif)
+
